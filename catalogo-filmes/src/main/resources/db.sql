@@ -1,9 +1,0 @@
-CREATE TABLE filmes (
-  id INT NOT NULL AUTO_INCREMENT,
-  nome VARCHAR(255) NOT NULL,
-  anoLancamento INT NOT NULL,
-  diretor VARCHAR(255) NOT NULL,
-  genero VARCHAR(255) NOT NULL,
-  nota INT NOT NULL,
-  PRIMARY KEY (id)
-);
